@@ -18,6 +18,7 @@ Our Current Games are:
 - Pacman
 - Mario
 - 2048
+- Tetris
 - Tower Defender
 - Car Simulator
 - Quiz Game
